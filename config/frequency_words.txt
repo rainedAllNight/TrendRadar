@@ -1,22 +1,24 @@
-AI
-Coding
+AI编程
 编程模型
-模型
+Cursor
 ChatGPT
 Sonnet
 Composer1
 Gemini
-新版本
-新特性
 !广告
 !培训
 
 Cursor
-AI
 +技巧
 
 Cursor
 +新功能
 
-AI编码
+Cursor
++新特性
+
+AI
 +移动端
+
+模型
++发布
