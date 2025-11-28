@@ -1,12 +1,16 @@
 AI编程
-编程模型
-Cursor
-ChatGPT
-Sonnet
+
+Claude
++模型
+
 Composer1
++模型
+
 Gemini
-!广告
-!培训
++模型
+
+ChatGPT
++模型
 
 Cursor
 +技巧
@@ -17,8 +21,16 @@ Cursor
 Cursor
 +新特性
 
+Cursor
++新
+
+Cursor
++模型
+
 AI
 +移动端
 
 模型
 +发布
+
+
